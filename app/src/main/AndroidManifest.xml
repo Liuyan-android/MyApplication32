@@ -25,8 +25,11 @@
 
         <activity android:name=".ly12Activity2" />
         <activity android:name=".ly13Activity" />
-
         <activity android:name=".ly3Activity">
+
+        </activity>
+        <activity android:name=".ly2Activity" />
+        <activity android:name=".MainActivity1">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
